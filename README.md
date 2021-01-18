@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://giphy.com/gifs/10a9ikXNvR9MXe/html5" alt="Welcome!"/>
+<img src="https://4.bp.blogspot.com/_QXn0E4j461Q/TI0H3vrmlzI/AAAAAAAAAAw/OKzlO55Z5PM/s1600/welcome.gif" alt="Welcome!"/>
 
 </div>
 
