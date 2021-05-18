@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciuslacerda0&show_icons=true&locale=en&layout=compact" alt="viniciuslacerda0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciuslacerda0&show_icons=true&locale=en" alt="viniciuslacerda0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-dusky-kappa-97.vercel.app/api?username=viniciuslacerda0&show_icons=true&locale=en" alt="viniciuslacerda0" /></p>
